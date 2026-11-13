@@ -17,7 +17,7 @@ creates a qr code from any link or text, shows a preview, and lets you save it a
 deletes junk files from the windows temporary (`temp`) folder to free up disk space.
 
 # quick notes
-simple built-in notepad that saves your text into a `delniko_notes.txt` file right next to the app.
+simple built-in notepad that saves your text into a `delniko_notes.txt` to appdata.
 
 # net ping
 checks your internet connection speed and packet loss to `8.8.8.8` or any custom website/ip.
